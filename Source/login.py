@@ -7,7 +7,7 @@ def main(page: ft.Page):
 
     # Imagen que se mostrará arriba del formulario de login
     imagen_barberia = ft.Image(
-        src="./imagenes/peluqueria.png",  # Reemplaza con la URL o ruta de tu imagen
+        src="../imagenes/peluqueria.png",  
         width=200,
         height=200,
         fit="contain"
